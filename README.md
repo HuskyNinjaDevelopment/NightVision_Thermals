@@ -9,6 +9,10 @@ Allows the use of NightVsion and Thermal Vision through the use of commands or k
 "goggles-up" and "goggles-down" are helmets that refer to the state of the goggles. If you want to change these be sure you change both or things will look odd in game.\
 "force-first-person" forces the game into first person mode for the player while the NVGs or Thermals are active. If you don't want this top happen just set the value to false
 
+# Commands
+![commands](https://github.com/HuskyNinjaDevelopment/NightVision_Thermals/assets/123021459/576d1162-2292-4aac-bb83-15013c995ae9)
+
+
 # Plugin Load Error
 ![Error Screenshot](https://user-images.githubusercontent.com/123021459/232183012-5111aa39-35b9-458b-bbf1-8e95d5b5b8de.PNG)
 
