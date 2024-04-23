@@ -11,6 +11,7 @@ Allows the use of NightVsion and Thermal Vision through the use of commands or k
 
 # Commands
 ![commands](https://github.com/HuskyNinjaDevelopment/NightVision_Thermals/assets/123021459/576d1162-2292-4aac-bb83-15013c995ae9)
+![commands2](https://github.com/HuskyNinjaDevelopment/NightVision_Thermals/assets/123021459/6e2f4132-477c-4b99-8bd0-d063a8714c4f)
 
 
 # Plugin Load Error
